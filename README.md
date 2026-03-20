@@ -1,12 +1,16 @@
-# 📊 Análise de Mercado e Performance Comercial | Indústria de Cosméticos
-
-## 📸 Preview do Dashboard
+#  Análise de Mercado e Performance Comercial | Indústria de Cosméticos
+####  Projeto de Análise de Dados com foco em Inteligência de Mercado
+##  Preview do Dashboard
 
 <img width="1324" height="741" alt="image" src="https://github.com/user-attachments/assets/56fbb293-5b22-488e-b9ad-d1695b879a06" />
 
 
 
-## 📌 Visão Geral
+##  Visão Geral
+
+Empresas do setor de cosméticos enfrentam desafios para entender o desempenho de vendas em diferentes regiões, canais e categorias.
+
+A ausência de uma visão consolidada dificulta a identificação de oportunidades de crescimento e gargalos operacionais.
 
 Este projeto tem como objetivo analisar o desempenho comercial de uma empresa do setor de cosméticos, transformando dados operacionais em insights estratégicos para suporte à tomada de decisão.
 
@@ -14,7 +18,7 @@ A análise contempla múltiplas dimensões do negócio, incluindo canais de vend
 
 ---
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 Desenvolver um dashboard analítico no Power BI que permita:
 
@@ -25,7 +29,7 @@ Desenvolver um dashboard analítico no Power BI que permita:
 
 ---
 
-## 🛠️ Stack e Metodologia
+##  Stack e Metodologia
 
 **Ferramentas utilizadas:**
 
@@ -46,49 +50,56 @@ Desenvolver um dashboard analítico no Power BI que permita:
   * Ranking de vendedores
 
 ---
+##  Decisões Analíticas
 
-## 📊 Principais Insights de Negócio
+- Utilização de modelo estrela para garantir melhor performance e escalabilidade do modelo de dados  
+- Criação de tabela calendário para permitir análises temporais consistentes e comparáveis  
+- Uso de medidas estatísticas (média, mediana e desvio padrão) para reduzir impacto de outliers  
+- Segmentação das análises por região, canal e categoria para identificar padrões de comportamento de negócio  
+---
 
-### 📍 Performance Regional
+##  Principais Insights de Negócio
 
-O estado do Espírito Santo apresenta o menor volume de vendas e estabilidade nos últimos períodos, indicando possível estagnação de mercado
+###  Performance Regional
 
-Estados como RJ, SP e MG apresentam desempenho consistente e podem servir como benchmark estratégico
+O estado do Espírito Santo apresenta o menor volume de vendas e estabilidade ao longo do tempo, o que pode indicar baixa penetração de mercado, ausência de expansão comercial ou limitações na atuação dos canais na região.
 
-
-## 🛍️ Portfólio de Produtos
-
-A categoria de maquiagem lidera as vendas, indicando forte demanda e potencial de expansão
-
-A categoria de cabelo apresenta menor participação, sugerindo oportunidade de crescimento ou reposicionamento
-
-
-## 🌎 Distribuição de Clientes
-
-Forte concentração de clientes na região Sudeste
-
-Baixa penetração nas regiões Norte, Centro-Oeste e parte do Nordeste, indicando potencial de expansão
+Estados como RJ, SP e MG apresentam desempenho consistente e podem servir como benchmark estratégico.
 
 
-## 👥 Equipe Comercial
+##  Portfólio de Produtos
 
-Diferenças relevantes de produtividade entre equipes
+A categoria de maquiagem lidera as vendas, indicando forte demanda e potencial de expansão.
 
-Identificação de líderes com alta performance por vendedor, sugerindo boas práticas replicáveis
-
-
-## 📈 Recomendações Estratégicas
-
-Expandir atuação em regiões com baixa penetração
-
-Testar estratégias comerciais baseadas em estados com melhor performance
-
-Desenvolver campanhas específicas para categorias com menor participação
-
-Replicar práticas das equipes mais produtivas
+A categoria de cabelo apresenta menor participação, sugerindo oportunidade de crescimento ou reposicionamento.
 
 
-## 📊 Dashboard
+##  Distribuição de Clientes
+
+A forte concentração de clientes na região Sudeste sugere dependência regional, o que pode representar risco estratégico e oportunidade de expansão em mercados ainda não explorados.
+
+Baixa penetração nas regiões Norte, Centro-Oeste e parte do Nordeste, indicando potencial de expansão.
+
+
+##  Equipe Comercial
+
+Diferenças relevantes de produtividade entre equipes sugerem possíveis variações na gestão, maturidade dos times ou perfil das carteiras de clientes.
+
+Identificação de líderes com alta performance por vendedor, sugerindo boas práticas replicáveis.
+
+
+##  Recomendações Estratégicas
+
+Expandir atuação em regiões com baixa penetração.
+
+Testar estratégias comerciais baseadas em estados com melhor performance.
+
+Desenvolver campanhas específicas para categorias com menor participação.
+
+Replicar práticas das equipes mais produtivas.
+
+
+##  Dashboard
 
 O projeto inclui um dashboard interativo no Power BI com visualizações como:
 
@@ -101,13 +112,13 @@ Mapa de clientes por região
 Performance da equipe comercial
 
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 data/ → bases de dados (CSV)  
 dashboard/ → arquivo Power BI (.pbix)  
 docs/ → relatório técnico e apresentação  
 
 
-## 🚀 Possíveis Evoluções
+##  Possíveis Evoluções
 
 Implementação de modelos preditivos de vendas
 
@@ -118,7 +129,7 @@ Automação de atualização de dados
 Deploy em ambiente cloud
 
 
-## 👩‍💻 Sobre
+##  Sobre
 
 Profissional com sólida capacidade analítica e experiência na construção de dashboards, análise de indicadores e geração de insights estratégicos.
 
