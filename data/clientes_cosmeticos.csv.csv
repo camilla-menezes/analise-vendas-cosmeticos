@@ -1,0 +1,1019 @@
+﻿Cod_Cliente;Cliente;Estado;Cidade;Cod_Vendedor
+C0001;Novaes e Filhos - EI;Caxias do Sul;RS;V013
+C0002;da Cruz Ltda.;Divinópolis;MG;V012
+C0003;Macedo - ME;Teixeira de Freitas;BA;V021
+C0004;Leão Porto e Filhos S.A.;Guarulhos;SP;V002
+C0005;da Cunha S/A;Uberaba;MG;V009
+C0006;Rios - ME Ltda.;Linhares;ES;V005
+C0007;da Mata - ME e Filhos;Niterói;RJ;V011
+C0008;Campos Duarte - ME Ltda.;Nova Lima;MG;V008
+C0009;Gomes e Filhos Ltda.;Divinópolis;MG;V016
+C0010;Dias - ME;Caxias do Sul;RS;V015
+C0011;Almeida Garcia S.A. S.A.;Divinópolis;MG;V010
+C0012;Cavalcante S/A - ME;Santo André;SP;V004
+C0013;Casa Grande Camargo S.A. - ME;Vila Velha;ES;V018
+C0014;Melo - EI - ME;Canoas;RS;V016
+C0015;Andrade S.A.;Divinópolis;MG;V020
+C0016;Ferreira Ltda.;Nova Iguacu;RJ;V013
+C0017;Cirino S/A;Viana;ES;V021
+C0018;Gonçalves - EI;Feira de Santana;BA;V007
+C0019;Viana S/A;Rio de Janeiro;RJ;V020
+C0020;Casa Grande - ME;Salvador;BA;V001
+C0021;Ferreira - EI;Campinas;SP;V007
+C0022;Guerra S/A;Rio de Janeiro;RJ;V014
+C0023;Borges - ME;Teixeira de Freitas;BA;V001
+C0024;da Cruz Moura - EI - ME;Pelotas;RS;V023
+C0025;Alves - ME;Betim;MG;V022
+C0026;Barbosa Dias - EI - ME;Campinas;SP;V022
+C0027;Borges Cassiano S/A e Filhos;Divinópolis;MG;V005
+C0028;Caldeira Ltda.;Volta Redonda;RJ;V003
+C0029;Lopes e Filhos;Santa Maria;RS;V015
+C0030;Pacheco e Filhos Ltda.;Vitória;ES;V003
+C0031;Pires - ME;Serra;ES;V009
+C0032;Novais S.A.;Ilhéus;BA;V021
+C0033;Novaes Pacheco S/A - ME;São Goncalo;RJ;V004
+C0034;Rios - ME S.A.;Vitória da Conquista;BA;V015
+C0035;Sampaio S.A. e Filhos;Uberaba;MG;V004
+C0036;Brito Moreira S.A. Ltda.;Rio de Janeiro;RJ;V018
+C0037;Gonçalves S/A;Caxias do Sul;RS;V013
+C0038;Machado Camargo e Filhos S.A.;Belo Horizonte;MG;V007
+C0039;Gomes - EI Ltda.;São Paulo;SP;V005
+C0040;Abreu Ltda. - EI;Pelotas;RS;V014
+C0041;da Costa Ltda.;São Goncalo;RJ;V021
+C0042;Gomes Jesus e Filhos S/A;Niterói;RJ;V023
+C0043;Porto Ltda.;Colatina;ES;V012
+C0044;Ferreira S.A. Ltda.;Santa Maria;RS;V017
+C0045;Borges Souza S.A. e Filhos;Colatina;ES;V021
+C0046;da Conceição S/A;Niterói;RJ;V001
+C0047;Cirino S/A;Sorocaba;SP;V004
+C0048;da Paz - EI;Viana;ES;V008
+C0049;Ferreira - EI;Nova Lima;MG;V007
+C0050;Ferreira e Filhos;Nova Lima;MG;V003
+C0051;Almeida e Filhos;Uberlândia;MG;V008
+C0052;Cirino S.A. S/A;Volta Redonda;RJ;V019
+C0053;da Conceição - ME - EI;Rio de Janeiro;RJ;V012
+C0054;Viana Pinto S/A - EI;Canoas;RS;V019
+C0055;Aragão S.A.;Niterói;RJ;V008
+C0056;Moreira S.A. S.A.;Vitória da Conquista;BA;V006
+C0057;Rodrigues S.A.;Belo Horizonte;MG;V012
+C0058;Mendes Sales Ltda. S.A.;Salvador;BA;V015
+C0059;Aparecida - EI Ltda.;Divinópolis;MG;V004
+C0060;das Neves S.A.;Teixeira de Freitas;BA;V021
+C0061;Câmara Teixeira - EI e Filhos;Cariacica;ES;V005
+C0062;Monteiro Moreira e Filhos Ltda.;Divinópolis;MG;V012
+C0063;Lima S/A e Filhos;Pelotas;RS;V011
+C0064;Montenegro Peixoto Ltda. e Filhos;Rio de Janeiro;RJ;V016
+C0065;Cardoso S/A;Guarapari;ES;V006
+C0066;Peixoto Azevedo S/A - ME;Duque de Caxias;RJ;V022
+C0067;Siqueira S/A;Santa Maria;RS;V008
+C0068;Fernandes Ltda. e Filhos;São Paulo;SP;V017
+C0069;Rocha Azevedo S/A S.A.;Vitória da Conquista;BA;V020
+C0070;Teixeira - ME;Contagem;MG;V017
+C0071;Cirino Ltda.;Nova Lima;MG;V015
+C0072;Sales Cunha e Filhos Ltda.;Belo Horizonte;MG;V019
+C0073;Marques S.A. Ltda.;Santo André;SP;V017
+C0074;Pacheco S.A.;São Goncalo;RJ;V017
+C0075;Moreira Ltda. - ME;Niterói;RJ;V022
+C0076;Cardoso da Luz S.A. - ME;Vitória da Conquista;BA;V010
+C0077;da Cunha S.A.;Serra;ES;V007
+C0078;Farias S.A.;São Paulo;SP;V010
+C0079;Viana e Filhos - ME;Divinópolis;MG;V012
+C0080;Fogaça Ltda.;Nova Iguacu;RJ;V023
+C0081;da Rosa - EI - ME;Belo Horizonte;MG;V020
+C0082;Novais - EI;Belo Horizonte;MG;V001
+C0083;Costela Souza S.A. - EI;Linhares;ES;V017
+C0084;Montenegro - EI;Belo Horizonte;MG;V001
+C0085;Montenegro Silva - EI S/A;Niterói;RJ;V013
+C0086;Sales S.A. Ltda.;Nova Iguacu;RJ;V002
+C0087;Guerra e Filhos;Porto Alegre;RS;V010
+C0088;da Cruz da Conceição - EI S/A;Porto Alegre;RS;V008
+C0089;Nogueira S/A S.A.;São Paulo;SP;V011
+C0090;Silva S.A.;Cariacica;ES;V003
+C0091;Cavalcanti - ME;Cariacica;ES;V001
+C0092;Rios Ltda. Ltda.;Porto Alegre;RS;V022
+C0093;Moraes - ME;Sorocaba;SP;V002
+C0094;Rodrigues Pereira - ME S.A.;São Paulo;SP;V002
+C0095;Câmara Ltda.;Osasco;SP;V011
+C0096;Souza - ME;Vitória;ES;V014
+C0097;Pires Brito Ltda. Ltda.;Niterói;RJ;V023
+C0098;Vargas - ME;Vitória da Conquista;BA;V017
+C0099;Cavalcanti da Mata - EI Ltda.;Niterói;RJ;V002
+C0100;Pimenta e Filhos;Nova Iguacu;RJ;V020
+C0101;Azevedo - ME;Pelotas;RS;V023
+C0102;Fernandes - EI;Nova Lima;MG;V018
+C0103;Rezende S/A Ltda.;Volta Redonda;RJ;V007
+C0104;Ferreira - EI;Linhares;ES;V011
+C0105;Mendonça Andrade - ME - EI;Canoas;RS;V017
+C0106;Garcia Pacheco S.A. Ltda.;Duque de Caxias;RJ;V001
+C0107;Fernandes - EI;Santo André;SP;V001
+C0108;Freitas - ME;Divinópolis;MG;V002
+C0109;das Neves S/A;Pelotas;RS;V001
+C0110;Oliveira e Filhos S.A.;Vitória;ES;V006
+C0111;Rezende S/A S/A;Pelotas;RS;V018
+C0112;Macedo Correia S.A. - EI;Nova Iguacu;RJ;V012
+C0113;Novaes S/A - ME;Ilhéus;BA;V010
+C0114;Peixoto da Conceição - ME Ltda.;Volta Redonda;RJ;V002
+C0115;da Paz Farias Ltda. - EI;Niterói;RJ;V020
+C0116;Silva Ltda.;Vitória;ES;V022
+C0117;Sales Ltda. Ltda.;Belo Horizonte;MG;V017
+C0118;Alves e Filhos;Itamaraju;BA;V014
+C0119;Gomes S.A.;Santos;SP;V011
+C0120;Montenegro S.A. - ME;Vila Velha;ES;V010
+C0121;da Paz S.A. Ltda.;Caxias do Sul;RS;V006
+C0122;Souza - ME;Feira de Santana;BA;V002
+C0123;Martins Mendes e Filhos e Filhos;Caxias do Sul;RS;V006
+C0124;Barbosa Gomes - EI S.A.;Campinas;SP;V011
+C0125;Marques Costela Ltda. e Filhos;Itamaraju;BA;V017
+C0126;da Rocha - EI;Guarulhos;SP;V006
+C0127;da Luz - EI S/A;Uberlândia;MG;V001
+C0128;Marques e Filhos;Duque de Caxias;RJ;V012
+C0129;Novaes - EI - ME;Rio de Janeiro;RJ;V010
+C0130;Leão S.A.;Volta Redonda;RJ;V006
+C0131;Albuquerque Ltda.;Teixeira de Freitas;BA;V015
+C0132;Marques - EI;Niterói;RJ;V012
+C0133;Montenegro Ltda.;Divinópolis;MG;V019
+C0134;Sales Ltda.;Santa Maria;RS;V008
+C0135;Santos S.A.;Santa Maria;RS;V014
+C0136;da Rosa - EI - ME;Betim;MG;V008
+C0137;Castro S/A;Betim;MG;V004
+C0138;Fogaça Silveira S.A. Ltda.;Niterói;RJ;V009
+C0139;Souza S/A;Nova Iguacu;RJ;V020
+C0140;Araújo S/A;São Goncalo;RJ;V011
+C0141;Lima - EI;Osasco;SP;V017
+C0142;Sousa - ME;Linhares;ES;V002
+C0143;Silveira S/A S/A;Salvador;BA;V013
+C0144;Garcia S/A;Feira de Santana;BA;V008
+C0145;Teixeira S/A;Canoas;RS;V022
+C0146;Pires Ltda. Ltda.;Rio de Janeiro;RJ;V005
+C0147;Sá S.A.;Colatina;ES;V013
+C0148;Souza Ltda. S/A;Uberlândia;MG;V002
+C0149;Albuquerque S/A S.A.;Porto Alegre;RS;V005
+C0150;Pereira Ltda. e Filhos;Cariacica;ES;V012
+C0151;Araújo S/A - EI;Divinópolis;MG;V010
+C0152;Leão S/A;Porto Alegre;RS;V013
+C0153;Fogaça S.A. e Filhos;Viana;ES;V021
+C0154;Monteiro Ferreira S.A. S.A.;Vila Velha;ES;V007
+C0155;Gonçalves - EI - EI;Guarapari;ES;V018
+C0156;Cavalcante - EI - ME;Niterói;RJ;V019
+C0157;Freitas - EI;Santa Maria;RS;V011
+C0158;Ferreira S.A.;Serra;ES;V005
+C0159;Siqueira S/A;Uberaba;MG;V010
+C0160;Novaes Pinto - ME e Filhos;Viana;ES;V006
+C0161;Pires Carvalho e Filhos S/A;Uberaba;MG;V003
+C0162;Sousa Ltda. e Filhos;Sorocaba;SP;V021
+C0163;Ferreira e Filhos - ME;Duque de Caxias;RJ;V001
+C0164;Cunha Borges Ltda. - EI;Santo André;SP;V005
+C0165;Farias - EI;Teixeira de Freitas;BA;V001
+C0166;Novaes Sousa - EI - EI;Uberaba;MG;V019
+C0167;Caldeira S.A. e Filhos;Niterói;RJ;V017
+C0168;Andrade Ltda.;Vitória da Conquista;BA;V005
+C0169;Viana S.A.;Santos;SP;V020
+C0170;Leão e Filhos - ME;Porto Alegre;RS;V011
+C0171;Carvalho e Filhos S.A.;Belo Horizonte;MG;V001
+C0172;Costa - EI;São Paulo;SP;V007
+C0173;Aparecida Jesus S/A - EI;São Goncalo;RJ;V022
+C0174;Pastor Ltda. S/A;Cariacica;ES;V010
+C0175;Pires - EI S/A;Niterói;RJ;V004
+C0176;Carvalho Ltda.;Santos;SP;V012
+C0177;Castro - ME - EI;Linhares;ES;V015
+C0178;Caldeira - ME;Sorocaba;SP;V017
+C0179;Pires Ltda. S/A;Guarapari;ES;V006
+C0180;Dias S/A;Betim;MG;V011
+C0181;Rodrigues S.A. - EI;São Goncalo;RJ;V006
+C0182;Mendonça S.A. e Filhos;Ilhéus;BA;V001
+C0183;Gonçalves Mendonça e Filhos S/A;Santo André;SP;V021
+C0184;Machado Rodrigues - ME - ME;Pelotas;RS;V002
+C0185;Barbosa Ltda.;Vila Velha;ES;V014
+C0186;Jesus Rocha - EI Ltda.;Canoas;RS;V005
+C0187;Barbosa S.A.;Pelotas;RS;V017
+C0188;da Rocha - ME Ltda.;Colatina;ES;V022
+C0189;Novaes Freitas S/A S.A.;Itamaraju;BA;V009
+C0190;Sampaio S.A.;Nova Lima;MG;V004
+C0191;Macedo Correia Ltda. - ME;Nova Iguacu;RJ;V010
+C0192;Barbosa e Filhos;Porto Alegre;RS;V021
+C0193;Mendes da Luz - EI - EI;Rio de Janeiro;RJ;V009
+C0194;da Paz Ltda. e Filhos;Pelotas;RS;V014
+C0195;Castro - EI;Salvador;BA;V021
+C0196;Fogaça Carvalho S/A e Filhos;Cariacica;ES;V010
+C0197;Cassiano S.A.;Guarapari;ES;V003
+C0198;Castro - EI;São Paulo;SP;V001
+C0199;Aragão S.A. e Filhos;Guarapari;ES;V018
+C0200;das Neves da Rosa - EI Ltda.;Nova Iguacu;RJ;V003
+C0201;Rezende Ltda. - ME;Vitória;ES;V008
+C0202;Porto Nogueira e Filhos S.A.;Teixeira de Freitas;BA;V019
+C0203;Vasconcelos S.A.;Belo Horizonte;MG;V007
+C0204;Moura Caldeira - EI e Filhos;Campinas;SP;V009
+C0205;Monteiro Cavalcante S.A. S.A.;Campinas;SP;V015
+C0206;Dias S.A. S/A;Niterói;RJ;V009
+C0207;das Neves Ribeiro S.A. S/A;Divinópolis;MG;V010
+C0208;Teixeira e Filhos - ME;Salvador;BA;V012
+C0209;Cavalcante e Filhos;Caxias do Sul;RS;V012
+C0210;da Costa Ferreira - ME - ME;Ilhéus;BA;V010
+C0211;Sales e Filhos;Nova Iguacu;RJ;V001
+C0212;Peixoto Rodrigues Ltda. - ME;Vitória da Conquista;BA;V005
+C0213;da Luz Mendes e Filhos Ltda.;Volta Redonda;RJ;V009
+C0214;Caldeira - ME;Santos;SP;V019
+C0215;Dias S.A.;Santo André;SP;V014
+C0216;Peixoto - ME;São Paulo;SP;V015
+C0217;Silva - ME e Filhos;Vitória;ES;V005
+C0218;Costela Câmara - EI - ME;Nova Iguacu;RJ;V009
+C0219;Pacheco - ME - ME;Ilhéus;BA;V004
+C0220;Azevedo Ltda.;Betim;MG;V010
+C0221;Machado - ME;Uberaba;MG;V015
+C0222;Vieira - ME;São Paulo;SP;V006
+C0223;da Mota Brito - ME - ME;Itamaraju;BA;V009
+C0224;Lima S.A. S.A.;Santo André;SP;V006
+C0225;Araújo e Filhos;Uberlândia;MG;V009
+C0226;Lima Nascimento S/A S/A;Guarapari;ES;V023
+C0227;Barros Siqueira - ME Ltda.;Vitória da Conquista;BA;V019
+C0228;Lopes - ME;Guarapari;ES;V004
+C0229;Montenegro Ferreira S/A - ME;Belo Horizonte;MG;V017
+C0230;Fernandes - ME Ltda.;Feira de Santana;BA;V003
+C0231;Pacheco S.A.;Duque de Caxias;RJ;V003
+C0232;Aragão e Filhos;Campinas;SP;V004
+C0233;Cunha S/A;Viana;ES;V023
+C0234;Macedo Ltda.;Ilhéus;BA;V002
+C0235;Cardoso - ME;Uberaba;MG;V011
+C0236;Fonseca - ME;Contagem;MG;V010
+C0237;Monteiro S/A;Duque de Caxias;RJ;V002
+C0238;Martins - EI;Caxias do Sul;RS;V003
+C0239;Rezende S/A;Viana;ES;V022
+C0240;Costa Carvalho e Filhos S.A.;Pelotas;RS;V020
+C0241;Moura e Filhos;Santos;SP;V022
+C0242;Pacheco - ME;Divinópolis;MG;V017
+C0243;Brito S.A.;Betim;MG;V009
+C0244;Sousa - EI S/A;Canoas;RS;V017
+C0245;Gomes S/A;São Paulo;SP;V004
+C0246;da Luz Vasconcelos - EI - ME;Vitória;ES;V016
+C0247;Mendes S.A. Ltda.;São Goncalo;RJ;V022
+C0248;Mendonça - ME;Osasco;SP;V005
+C0249;da Rosa Casa Grande e Filhos e Filhos;Contagem;MG;V007
+C0250;Fonseca Guerra - ME Ltda.;Caxias do Sul;RS;V012
+C0251;Fonseca S/A - ME;Canoas;RS;V013
+C0252;da Paz Monteiro e Filhos - EI;Osasco;SP;V017
+C0253;Marques - EI S/A;Rio de Janeiro;RJ;V009
+C0254;Alves Ltda. e Filhos;São Paulo;SP;V014
+C0255;Aragão e Filhos;Pelotas;RS;V002
+C0256;Correia - ME S.A.;Santa Maria;RS;V012
+C0257;Pimenta - EI;Feira de Santana;BA;V011
+C0258;Fernandes Montenegro Ltda. S.A.;Linhares;ES;V009
+C0259;Pinto - EI;Niterói;RJ;V008
+C0260;Pinto S.A. S/A;Teixeira de Freitas;BA;V016
+C0261;Sales - EI;Vitória;ES;V023
+C0262;Ramos - EI - EI;Canoas;RS;V011
+C0263;Nascimento Casa Grande e Filhos e Filhos;Canoas;RS;V009
+C0264;Carvalho S.A.;Divinópolis;MG;V014
+C0265;Moraes Ramos - EI Ltda.;Guarapari;ES;V018
+C0266;Albuquerque - ME;Teixeira de Freitas;BA;V002
+C0267;da Paz - ME;São Paulo;SP;V011
+C0268;Teixeira e Filhos S/A;Vitória da Conquista;BA;V015
+C0269;das Neves S/A;Salvador;BA;V018
+C0270;da Paz - ME;Santa Maria;RS;V023
+C0271;Cavalcante e Filhos;Vitória da Conquista;BA;V023
+C0272;Nunes Caldeira - EI - ME;Campinas;SP;V018
+C0273;Fernandes S.A.;Santos;SP;V015
+C0274;Abreu - ME;Ilhéus;BA;V005
+C0275;Costela Sales Ltda. e Filhos;Colatina;ES;V020
+C0276;Dias S/A;Salvador;BA;V002
+C0277;Oliveira Ltda.;Guarulhos;SP;V019
+C0278;Marques e Filhos;Belo Horizonte;MG;V020
+C0279;Barros S/A;Santo André;SP;V004
+C0280;Martins Ltda. - EI;Feira de Santana;BA;V016
+C0281;Albuquerque das Neves - ME - ME;Uberaba;MG;V023
+C0282;Monteiro e Filhos;Betim;MG;V021
+C0283;da Rosa S.A.;Porto Alegre;RS;V013
+C0284;Macedo Costela S.A. - ME;Duque de Caxias;RJ;V004
+C0285;Aragão Silveira - EI S.A.;Teixeira de Freitas;BA;V020
+C0286;Duarte e Filhos;Nova Iguacu;RJ;V013
+C0287;Nunes S/A;Contagem;MG;V012
+C0288;Camargo - ME - EI;Teixeira de Freitas;BA;V012
+C0289;Vargas S/A e Filhos;Cariacica;ES;V022
+C0290;Araújo Ltda.;Rio de Janeiro;RJ;V004
+C0291;Nogueira Ribeiro e Filhos e Filhos;Divinópolis;MG;V005
+C0292;Ribeiro Aragão S.A. S.A.;Campinas;SP;V022
+C0293;Abreu Ltda.;Canoas;RS;V008
+C0294;Costela - ME;Uberlândia;MG;V002
+C0295;Vieira Barros S.A. - ME;Teixeira de Freitas;BA;V007
+C0296;Ferreira Dias - EI e Filhos;Pelotas;RS;V009
+C0297;Sales Porto S/A - EI;Ilhéus;BA;V011
+C0298;Ferreira Nogueira S/A Ltda.;Uberaba;MG;V002
+C0299;da Conceição Ltda.;Pelotas;RS;V012
+C0300;da Mota - ME;Pelotas;RS;V020
+C0301;Costa - EI;Ilhéus;BA;V018
+C0302;Costa S/A;Belo Horizonte;MG;V010
+C0303;da Rosa Ltda.;Osasco;SP;V019
+C0304;Rodrigues e Filhos;Osasco;SP;V012
+C0305;das Neves S/A;Niterói;RJ;V023
+C0306;Guerra - EI S/A;Canoas;RS;V001
+C0307;Cirino - ME - EI;Niterói;RJ;V022
+C0308;Ribeiro Ltda.;Itamaraju;BA;V018
+C0309;Gonçalves - ME S/A;Colatina;ES;V005
+C0310;Cirino - EI;Vila Velha;ES;V006
+C0311;Pacheco Pereira S/A - ME;Uberaba;MG;V018
+C0312;Pacheco Ltda. e Filhos;Feira de Santana;BA;V014
+C0313;Brito S/A;Teixeira de Freitas;BA;V023
+C0314;Monteiro Ltda.;Nova Iguacu;RJ;V011
+C0315;da Cruz Ribeiro e Filhos S.A.;Itamaraju;BA;V020
+C0316;Carvalho e Filhos;Contagem;MG;V023
+C0317;Macedo e Filhos;Duque de Caxias;RJ;V009
+C0318;Barros S/A;Nova Lima;MG;V008
+C0319;Casa Grande - ME;Vitória da Conquista;BA;V011
+C0320;Vargas - EI e Filhos;Betim;MG;V023
+C0321;Machado S.A.;Osasco;SP;V018
+C0322;Sales Rocha - ME e Filhos;Porto Alegre;RS;V010
+C0323;Santos - ME;Teixeira de Freitas;BA;V021
+C0324;da Mata Caldeira Ltda. S.A.;Linhares;ES;V002
+C0325;Ribeiro S/A;Niterói;RJ;V006
+C0326;Pinto Ltda. S.A.;Vitória da Conquista;BA;V011
+C0327;Gomes e Filhos S.A.;Osasco;SP;V009
+C0328;da Cunha e Filhos;Teixeira de Freitas;BA;V004
+C0329;da Cunha Silveira S.A. Ltda.;Itamaraju;BA;V006
+C0330;Porto S.A.;Rio de Janeiro;RJ;V008
+C0331;Borges Ltda. e Filhos;Linhares;ES;V009
+C0332;Lopes e Filhos e Filhos;Contagem;MG;V003
+C0333;Machado Brito S.A. S/A;Linhares;ES;V011
+C0334;Vasconcelos - EI S/A;Uberaba;MG;V014
+C0335;da Cruz S.A.;Canoas;RS;V002
+C0336;Sales e Filhos;Vila Velha;ES;V002
+C0337;Correia S.A.;Santo André;SP;V016
+C0338;da Costa Ltda.;Niterói;RJ;V016
+C0339;Cassiano e Filhos S/A;Ilhéus;BA;V004
+C0340;Rios e Filhos e Filhos;Contagem;MG;V006
+C0341;Fogaça - ME Ltda.;Ilhéus;BA;V020
+C0342;Cirino Vargas - ME Ltda.;Itamaraju;BA;V023
+C0343;da Cunha S/A;Nova Lima;MG;V019
+C0344;Sousa - EI;Pelotas;RS;V003
+C0345;Araújo - ME;São Goncalo;RJ;V016
+C0346;Almeida S/A - ME;Salvador;BA;V015
+C0347;Aragão - ME;Salvador;BA;V007
+C0348;Fernandes da Rocha - ME S/A;Pelotas;RS;V020
+C0349;da Conceição Ltda. - ME;Rio de Janeiro;RJ;V013
+C0350;Borges e Filhos - EI;Cariacica;ES;V003
+C0351;Moraes S.A.;Itamaraju;BA;V009
+C0352;Andrade Cirino S/A S/A;Porto Alegre;RS;V006
+C0353;Silveira - EI S.A.;Vila Velha;ES;V002
+C0354;Cassiano S.A.;Duque de Caxias;RJ;V019
+C0355;Gomes Ltda.;Feira de Santana;BA;V023
+C0356;Vargas S.A.;São Paulo;SP;V003
+C0357;Cavalcante - ME;Colatina;ES;V001
+C0358;Barbosa Nascimento - ME S.A.;São Goncalo;RJ;V009
+C0359;Machado Ltda.;Niterói;RJ;V001
+C0360;Siqueira Pastor Ltda. Ltda.;São Paulo;SP;V004
+C0361;Souza - ME S/A;Santos;SP;V011
+C0362;da Luz Barros - EI - EI;Itamaraju;BA;V005
+C0363;Mendonça - ME;Teixeira de Freitas;BA;V012
+C0364;Costa Borges e Filhos - ME;Campinas;SP;V017
+C0365;Monteiro Ltda. Ltda.;Colatina;ES;V006
+C0366;Santos Ramos - ME S.A.;Volta Redonda;RJ;V019
+C0367;Duarte e Filhos;Contagem;MG;V011
+C0368;Lima Câmara - EI Ltda.;Campinas;SP;V023
+C0369;Cavalcante - ME;Uberlândia;MG;V008
+C0370;Moura S/A S/A;Ilhéus;BA;V013
+C0371;Brito S/A S.A.;Teixeira de Freitas;BA;V023
+C0372;Carvalho Ltda. S.A.;Volta Redonda;RJ;V014
+C0373;Vasconcelos Ltda.;São Paulo;SP;V016
+C0374;Ramos e Filhos S.A.;Vila Velha;ES;V017
+C0375;Nunes S/A;Guarulhos;SP;V011
+C0376;Martins Guerra S.A. S/A;São Goncalo;RJ;V016
+C0377;Ramos - EI S.A.;Vila Velha;ES;V012
+C0378;Lopes Monteiro S.A. e Filhos;Cariacica;ES;V011
+C0379;Cassiano - EI - EI;Teixeira de Freitas;BA;V019
+C0380;Porto S/A - ME;Nova Lima;MG;V003
+C0381;Peixoto e Filhos;Linhares;ES;V009
+C0382;da Mota S/A S.A.;Uberaba;MG;V012
+C0383;da Costa - EI;Niterói;RJ;V021
+C0384;Garcia Rios e Filhos S.A.;Nova Iguacu;RJ;V013
+C0385;Cavalcanti Silva Ltda. Ltda.;Canoas;RS;V010
+C0386;Sales e Filhos S/A;Nova Iguacu;RJ;V015
+C0387;Barbosa - EI;Guarulhos;SP;V002
+C0388;Castro - ME S.A.;Osasco;SP;V014
+C0389;da Cunha e Filhos S.A.;Porto Alegre;RS;V011
+C0390;Jesus S/A - EI;Belo Horizonte;MG;V011
+C0391;Siqueira S/A;Vitória da Conquista;BA;V016
+C0392;Brito e Filhos S/A;Feira de Santana;BA;V009
+C0393;Castro S.A.;Uberaba;MG;V005
+C0394;Pinto S/A;Caxias do Sul;RS;V003
+C0395;Moraes e Filhos;São Paulo;SP;V005
+C0396;Moraes e Filhos;Belo Horizonte;MG;V020
+C0397;Brito - EI Ltda.;Duque de Caxias;RJ;V018
+C0398;Cavalcanti Correia - ME - EI;Belo Horizonte;MG;V004
+C0399;Alves e Filhos;Colatina;ES;V005
+C0400;da Rocha Ltda.;Porto Alegre;RS;V006
+C0401;Aragão - ME;Uberlândia;MG;V010
+C0402;Casa Grande e Filhos;Divinópolis;MG;V005
+C0403;Fogaça da Mata e Filhos S.A.;Belo Horizonte;MG;V003
+C0404;Jesus - EI e Filhos;Serra;ES;V004
+C0405;Sousa - EI;Nova Lima;MG;V016
+C0406;Porto - EI;Pelotas;RS;V003
+C0407;Barros Monteiro S.A. e Filhos;Santo André;SP;V003
+C0408;da Cruz e Filhos - EI;Porto Alegre;RS;V015
+C0409;Montenegro Cardoso Ltda. S.A.;Osasco;SP;V019
+C0410;Costa - ME;São Goncalo;RJ;V003
+C0411;Machado Rodrigues S.A. S/A;Porto Alegre;RS;V004
+C0412;da Costa - ME;Uberaba;MG;V019
+C0413;Garcia - ME e Filhos;Contagem;MG;V001
+C0414;Gomes S/A;Guarulhos;SP;V012
+C0415;Machado S/A;Osasco;SP;V019
+C0416;da Rocha e Filhos e Filhos;Teixeira de Freitas;BA;V016
+C0417;Sousa S/A - EI;Cariacica;ES;V018
+C0418;Pastor Ltda. - ME;Nova Lima;MG;V009
+C0419;Barros S/A;Santa Maria;RS;V005
+C0420;Nogueira Sousa - ME S/A;Porto Alegre;RS;V010
+C0421;Pereira da Paz e Filhos Ltda.;Canoas;RS;V002
+C0422;Monteiro S/A - ME;São Goncalo;RJ;V005
+C0423;Brito Brito S/A e Filhos;Santa Maria;RS;V015
+C0424;Teixeira e Filhos;Divinópolis;MG;V018
+C0425;Lopes S.A.;Vitória da Conquista;BA;V023
+C0426;Caldeira Ltda.;Santos;SP;V008
+C0427;Novais Costela S.A. S/A;Sorocaba;SP;V017
+C0428;Aragão - EI;Cariacica;ES;V003
+C0429;da Paz - EI e Filhos;Santa Maria;RS;V007
+C0430;Garcia S/A S.A.;Belo Horizonte;MG;V011
+C0431;Monteiro S.A.;Feira de Santana;BA;V006
+C0432;Sá Caldeira Ltda. S.A.;Osasco;SP;V011
+C0433;Brito S.A. S.A.;Canoas;RS;V002
+C0434;Siqueira - ME Ltda.;Guarapari;ES;V022
+C0435;Novaes Ltda.;Uberlândia;MG;V008
+C0436;Cirino Castro S.A. Ltda.;Osasco;SP;V008
+C0437;Fogaça da Rosa Ltda. e Filhos;Nova Lima;MG;V015
+C0438;Silveira Nascimento - ME S.A.;Santo André;SP;V001
+C0439;Brito - EI Ltda.;São Paulo;SP;V003
+C0440;Pacheco S.A.;Campinas;SP;V021
+C0441;Guerra e Filhos S.A.;Volta Redonda;RJ;V019
+C0442;Pereira S.A. S.A.;Porto Alegre;RS;V005
+C0443;Martins S.A.;Porto Alegre;RS;V006
+C0444;Santos - ME - ME;Vitória;ES;V014
+C0445;Correia e Filhos;Betim;MG;V002
+C0446;Câmara S/A;Porto Alegre;RS;V001
+C0447;Nogueira e Filhos - ME;Vila Velha;ES;V016
+C0448;Lopes - ME;Duque de Caxias;RJ;V009
+C0449;Fonseca Lopes S/A e Filhos;Santos;SP;V001
+C0450;Peixoto e Filhos;Feira de Santana;BA;V017
+C0451;Pires S.A.;Santo André;SP;V021
+C0452;Nunes e Filhos;Porto Alegre;RS;V023
+C0453;da Cunha Caldeira - ME S/A;Viana;ES;V019
+C0454;Casa Grande Ltda.;Betim;MG;V004
+C0455;Cirino S/A;Guarulhos;SP;V010
+C0456;da Cruz e Filhos;Porto Alegre;RS;V014
+C0457;Novaes Pacheco Ltda. S.A.;Nova Lima;MG;V019
+C0458;da Mata e Filhos Ltda.;Ilhéus;BA;V004
+C0459;Oliveira S/A - ME;Campinas;SP;V013
+C0460;Brito Martins e Filhos e Filhos;Uberaba;MG;V008
+C0461;Cavalcante e Filhos e Filhos;Ilhéus;BA;V015
+C0462;Ferreira Ltda. Ltda.;Uberaba;MG;V010
+C0463;Fernandes Ltda.;Niterói;RJ;V004
+C0464;Novais S.A.;Salvador;BA;V017
+C0465;Dias - ME;Guarapari;ES;V017
+C0466;Rocha S/A;Canoas;RS;V019
+C0467;Aparecida S/A e Filhos;Rio de Janeiro;RJ;V014
+C0468;Macedo Dias S.A. S/A;Volta Redonda;RJ;V009
+C0469;Aparecida S/A;Santa Maria;RS;V018
+C0470;Nascimento - ME;Uberlândia;MG;V012
+C0471;Castro Pastor - ME S/A;Campinas;SP;V020
+C0472;Santos Ltda. S/A;Caxias do Sul;RS;V019
+C0473;Ferreira - ME;Vitória;ES;V004
+C0474;Cavalcanti Barbosa S.A. S/A;Rio de Janeiro;RJ;V007
+C0475;Monteiro - EI;São Goncalo;RJ;V017
+C0476;Pimenta Leão S.A. - EI;Rio de Janeiro;RJ;V004
+C0477;Dias S.A.;Santa Maria;RS;V021
+C0478;Campos S.A.;Volta Redonda;RJ;V022
+C0479;Nogueira - EI;Serra;ES;V003
+C0480;Moura e Filhos - EI;Betim;MG;V016
+C0481;Novais S.A.;Linhares;ES;V014
+C0482;Mendonça e Filhos - EI;Canoas;RS;V022
+C0483;Porto - EI;Cariacica;ES;V013
+C0484;Siqueira - ME;Porto Alegre;RS;V006
+C0485;Freitas Garcia S/A e Filhos;Porto Alegre;RS;V023
+C0486;Barbosa Rodrigues Ltda. S.A.;Sorocaba;SP;V017
+C0487;Pereira S.A.;Salvador;BA;V016
+C0488;Pacheco Pinto Ltda. - ME;Santos;SP;V017
+C0489;Peixoto - ME;São Goncalo;RJ;V015
+C0490;Jesus Costela S/A e Filhos;Linhares;ES;V009
+C0491;Machado Ramos Ltda. Ltda.;Teixeira de Freitas;BA;V020
+C0492;Souza S/A S/A;Niterói;RJ;V001
+C0493;Caldeira e Filhos;Sorocaba;SP;V016
+C0494;Sales Duarte - ME e Filhos;Niterói;RJ;V022
+C0495;Caldeira S/A S/A;Canoas;RS;V004
+C0496;Garcia Ltda. - EI;Santos;SP;V001
+C0497;Ramos - ME - ME;Pelotas;RS;V017
+C0498;Novaes S.A.;Salvador;BA;V009
+C0499;Mendes S.A. - ME;Santos;SP;V020
+C0500;Cavalcanti S.A.;Caxias do Sul;RS;V011
+C0501;Lopes - EI;Caxias do Sul;RS;V023
+C0502;Freitas S/A;Santo André;SP;V021
+C0503;Melo - EI;Linhares;ES;V020
+C0504;Ferreira - ME;Cariacica;ES;V007
+C0505;Rodrigues Sampaio e Filhos - EI;Teixeira de Freitas;BA;V021
+C0506;Ramos Ltda. S.A.;Pelotas;RS;V017
+C0507;Pacheco S/A - EI;Vitória da Conquista;BA;V021
+C0508;Araújo Campos - ME S/A;Salvador;BA;V019
+C0509;Costa Sousa - ME e Filhos;Betim;MG;V021
+C0510;Garcia - ME;Caxias do Sul;RS;V018
+C0511;da Costa - ME S/A;Duque de Caxias;RJ;V004
+C0512;Montenegro - EI;Niterói;RJ;V012
+C0513;Moura S/A;Pelotas;RS;V013
+C0514;da Rocha Ltda.;Uberaba;MG;V013
+C0515;Cavalcante Ltda.;Santo André;SP;V001
+C0516;Porto e Filhos;Guarulhos;SP;V010
+C0517;Pastor Cunha S.A. - EI;Uberaba;MG;V007
+C0518;da Paz S.A.;Pelotas;RS;V017
+C0519;Sales S/A - EI;Divinópolis;MG;V012
+C0520;Melo Ltda.;Nova Iguacu;RJ;V003
+C0521;Vasconcelos Ferreira Ltda. S.A.;Santos;SP;V009
+C0522;Jesus - ME;Campinas;SP;V001
+C0523;Fogaça - ME;Uberaba;MG;V017
+C0524;Almeida S.A. S/A;Ilhéus;BA;V013
+C0525;Peixoto Sales S.A. Ltda.;Viana;ES;V011
+C0526;Teixeira Rodrigues S.A. Ltda.;Porto Alegre;RS;V002
+C0527;Cunha Ltda. S/A;São Paulo;SP;V002
+C0528;Cunha S.A.;Cariacica;ES;V012
+C0529;Nogueira e Filhos Ltda.;Osasco;SP;V018
+C0530;Fonseca Azevedo e Filhos - ME;Volta Redonda;RJ;V020
+C0531;Cardoso S.A.;Vitória;ES;V020
+C0532;Peixoto S/A;Porto Alegre;RS;V009
+C0533;Moraes - EI Ltda.;Nova Iguacu;RJ;V004
+C0534;Pacheco e Filhos;Viana;ES;V019
+C0535;Martins Garcia - ME S.A.;Rio de Janeiro;RJ;V017
+C0536;Pinto e Filhos - EI;São Paulo;SP;V007
+C0537;Monteiro Carvalho e Filhos - EI;Guarulhos;SP;V020
+C0538;da Costa Ltda. S.A.;Uberlândia;MG;V014
+C0539;Sampaio S.A. e Filhos;Vitória;ES;V018
+C0540;Gonçalves - ME - ME;Divinópolis;MG;V022
+C0541;da Conceição S.A.;São Paulo;SP;V004
+C0542;Cardoso e Filhos S/A;Cariacica;ES;V018
+C0543;Mendonça e Filhos S/A;Ilhéus;BA;V011
+C0544;da Mata Barbosa Ltda. - EI;Duque de Caxias;RJ;V004
+C0545;Duarte Ltda.;São Goncalo;RJ;V021
+C0546;Pastor S/A;Belo Horizonte;MG;V008
+C0547;Machado Ltda. - EI;Porto Alegre;RS;V022
+C0548;Cirino S/A Ltda.;Vitória da Conquista;BA;V015
+C0549;Santos S/A;Canoas;RS;V006
+C0550;Andrade Garcia - EI Ltda.;São Paulo;SP;V021
+C0551;da Paz - EI;Teixeira de Freitas;BA;V015
+C0552;Costela - ME e Filhos;Viana;ES;V010
+C0553;Araújo S/A;Cariacica;ES;V014
+C0554;Porto Cavalcanti - EI e Filhos;Itamaraju;BA;V021
+C0555;Aragão S.A. - ME;Linhares;ES;V009
+C0556;Siqueira Campos - EI S/A;Divinópolis;MG;V018
+C0557;Mendonça S.A. S/A;Vila Velha;ES;V014
+C0558;Carvalho S/A;Porto Alegre;RS;V003
+C0559;Dias S.A. S/A;Serra;ES;V022
+C0560;Abreu Ltda.;Itamaraju;BA;V006
+C0561;da Mota - ME;Volta Redonda;RJ;V001
+C0562;Pires Lopes Ltda. S/A;Uberlândia;MG;V016
+C0563;Andrade Ltda.;Nova Lima;MG;V020
+C0564;Cardoso e Filhos;Feira de Santana;BA;V020
+C0565;Almeida S.A.;Rio de Janeiro;RJ;V009
+C0566;das Neves Câmara S.A. - ME;Vitória da Conquista;BA;V013
+C0567;Ferreira S/A;Belo Horizonte;MG;V004
+C0568;Cardoso - ME;Nova Lima;MG;V004
+C0569;Vargas e Filhos;Santa Maria;RS;V011
+C0570;Porto Caldeira e Filhos - ME;São Goncalo;RJ;V003
+C0571;Gomes S/A;Porto Alegre;RS;V013
+C0572;Novais S/A;Contagem;MG;V012
+C0573;Nascimento e Filhos;Campinas;SP;V007
+C0574;Montenegro Costa S.A. - EI;Vitória da Conquista;BA;V020
+C0575;Novais e Filhos Ltda.;Niterói;RJ;V023
+C0576;Fonseca S/A;Volta Redonda;RJ;V009
+C0577;Cunha - EI;Nova Lima;MG;V007
+C0578;Guerra e Filhos;Itamaraju;BA;V005
+C0579;Gomes Martins - ME e Filhos;São Goncalo;RJ;V007
+C0580;Pinto e Filhos;Guarapari;ES;V022
+C0581;Dias Costa S/A S.A.;Duque de Caxias;RJ;V010
+C0582;Martins - EI;Betim;MG;V019
+C0583;Nogueira - ME;Nova Iguacu;RJ;V018
+C0584;Moreira - ME;Duque de Caxias;RJ;V017
+C0585;da Luz S/A;Guarulhos;SP;V018
+C0586;Andrade - ME;Pelotas;RS;V002
+C0587;Machado - ME;Canoas;RS;V003
+C0588;Guerra S.A.;São Goncalo;RJ;V011
+C0589;Moura S/A - ME;Caxias do Sul;RS;V018
+C0590;Cardoso Barros - ME - EI;Feira de Santana;BA;V021
+C0591;Silva Brito - ME Ltda.;Santos;SP;V014
+C0592;Moreira S.A.;Volta Redonda;RJ;V003
+C0593;Albuquerque Brito Ltda. S.A.;Vila Velha;ES;V001
+C0594;Nogueira - ME S.A.;Sorocaba;SP;V010
+C0595;Mendonça - EI S.A.;Santa Maria;RS;V011
+C0596;Porto S/A S.A.;Canoas;RS;V011
+C0597;da Rocha Ltda.;Sorocaba;SP;V014
+C0598;Aparecida Rocha S.A. - EI;Salvador;BA;V014
+C0599;Nascimento Ltda.;Linhares;ES;V003
+C0600;Caldeira Marques e Filhos - EI;Santo André;SP;V022
+C0601;Ferreira - EI;Niterói;RJ;V014
+C0602;Teixeira Aparecida - ME S.A.;Porto Alegre;RS;V014
+C0603;Pereira Duarte Ltda. Ltda.;Guarulhos;SP;V009
+C0604;Almeida da Costa e Filhos e Filhos;Santos;SP;V003
+C0605;Viana S/A S.A.;Ilhéus;BA;V015
+C0606;Carvalho Jesus - ME S/A;Caxias do Sul;RS;V001
+C0607;da Rocha S/A;Volta Redonda;RJ;V006
+C0608;Cunha S.A.;Caxias do Sul;RS;V017
+C0609;Guerra Ltda.;Vitória;ES;V005
+C0610;Pastor e Filhos;Uberlândia;MG;V019
+C0611;Jesus S.A.;Itamaraju;BA;V001
+C0612;Sales Ltda.;Santo André;SP;V012
+C0613;Cavalcanti S.A.;Cariacica;ES;V014
+C0614;da Rocha - EI;Osasco;SP;V013
+C0615;Vargas - ME - EI;Duque de Caxias;RJ;V016
+C0616;Cavalcante - ME;Teixeira de Freitas;BA;V020
+C0617;Pires S.A. - EI;Belo Horizonte;MG;V002
+C0618;Moura da Cunha e Filhos e Filhos;Nova Lima;MG;V013
+C0619;Câmara e Filhos Ltda.;Pelotas;RS;V006
+C0620;Abreu e Filhos;Porto Alegre;RS;V021
+C0621;Barbosa Nogueira Ltda. - EI;Itamaraju;BA;V012
+C0622;Marques e Filhos;Volta Redonda;RJ;V009
+C0623;Cirino - ME - EI;Santos;SP;V011
+C0624;Lima - EI;Cariacica;ES;V008
+C0625;Nunes Ltda.;Teixeira de Freitas;BA;V016
+C0626;Monteiro da Paz S/A - ME;Viana;ES;V018
+C0627;Câmara - EI;Santo André;SP;V019
+C0628;Peixoto - ME;Sorocaba;SP;V010
+C0629;Barbosa - EI;Duque de Caxias;RJ;V009
+C0630;da Mata - EI;Nova Iguacu;RJ;V010
+C0631;Dias Ltda.;Vitória;ES;V002
+C0632;Costela - ME S/A;Serra;ES;V008
+C0633;Andrade S/A;Osasco;SP;V014
+C0634;Cassiano Pimenta S/A e Filhos;Vitória da Conquista;BA;V009
+C0635;Rios Ltda. S/A;Belo Horizonte;MG;V010
+C0636;Siqueira Guerra - ME S/A;Porto Alegre;RS;V010
+C0637;Lima S.A. S/A;Vitória;ES;V023
+C0638;Martins e Filhos Ltda.;Pelotas;RS;V008
+C0639;Cardoso - EI;São Goncalo;RJ;V005
+C0640;Silva - EI;Uberlândia;MG;V018
+C0641;Cirino S.A.;Feira de Santana;BA;V016
+C0642;Rocha Martins - ME e Filhos;São Paulo;SP;V014
+C0643;Leão Ltda.;Nova Lima;MG;V022
+C0644;Lopes e Filhos;São Paulo;SP;V011
+C0645;Vieira e Filhos S/A;Salvador;BA;V023
+C0646;das Neves S.A.;Vitória da Conquista;BA;V023
+C0647;Cunha e Filhos;Salvador;BA;V023
+C0648;Moraes Ltda. e Filhos;Betim;MG;V015
+C0649;Gomes - ME;Guarapari;ES;V002
+C0650;Freitas S.A.;Campinas;SP;V020
+C0651;Barros - ME;Nova Iguacu;RJ;V020
+C0652;Sá Ltda.;Cariacica;ES;V019
+C0653;Cavalcanti Porto - ME e Filhos;Linhares;ES;V010
+C0654;Aparecida Sousa e Filhos - ME;Ilhéus;BA;V004
+C0655;Fogaça - ME;Betim;MG;V022
+C0656;da Cruz Campos e Filhos e Filhos;Cariacica;ES;V006
+C0657;Pinto e Filhos - ME;São Paulo;SP;V015
+C0658;Jesus - EI;Salvador;BA;V021
+C0659;Cavalcanti e Filhos;Santos;SP;V008
+C0660;Mendonça Ltda.;Divinópolis;MG;V005
+C0661;Nogueira S/A;Colatina;ES;V009
+C0662;da Cruz Melo S/A Ltda.;Feira de Santana;BA;V014
+C0663;Barros e Filhos;Contagem;MG;V010
+C0664;Mendes Ltda.;Uberlândia;MG;V011
+C0665;Marques S.A.;Vila Velha;ES;V021
+C0666;Vargas Ltda.;Nova Iguacu;RJ;V012
+C0667;Cavalcanti - EI;Teixeira de Freitas;BA;V022
+C0668;Correia Ltda.;Rio de Janeiro;RJ;V005
+C0669;Martins - EI S/A;Uberlândia;MG;V004
+C0670;Marques Ltda. - ME;Pelotas;RS;V013
+C0671;Pimenta S/A;Colatina;ES;V023
+C0672;Castro Borges - ME S/A;Ilhéus;BA;V005
+C0673;Leão S.A. e Filhos;Vitória da Conquista;BA;V022
+C0674;Abreu Viana - EI Ltda.;Vila Velha;ES;V018
+C0675;Santos S.A. - EI;Campinas;SP;V021
+C0676;da Cunha Ltda.;São Goncalo;RJ;V023
+C0677;Gomes S.A.;Canoas;RS;V012
+C0678;Rocha Ltda.;Betim;MG;V018
+C0679;da Cunha e Filhos;Caxias do Sul;RS;V010
+C0680;Guerra Aragão - ME S.A.;Nova Iguacu;RJ;V022
+C0681;Siqueira Câmara S/A S/A;Nova Lima;MG;V009
+C0682;Moreira - ME;Osasco;SP;V012
+C0683;Oliveira e Filhos;Vitória da Conquista;BA;V008
+C0684;Lima e Filhos e Filhos;Uberaba;MG;V017
+C0685;Rezende - ME;São Goncalo;RJ;V018
+C0686;Fogaça - EI;Itamaraju;BA;V011
+C0687;Camargo - ME;Santo André;SP;V012
+C0688;Fernandes Silva - EI S/A;Niterói;RJ;V017
+C0689;Fernandes Fernandes - EI S.A.;Santos;SP;V019
+C0690;Vargas - ME;Belo Horizonte;MG;V006
+C0691;Sampaio e Filhos;Nova Iguacu;RJ;V020
+C0692;Garcia Rodrigues e Filhos S/A;Cariacica;ES;V001
+C0693;Pinto S.A.;Contagem;MG;V001
+C0694;Rocha S/A;Rio de Janeiro;RJ;V016
+C0695;Fogaça S.A.;Rio de Janeiro;RJ;V019
+C0696;Castro Sousa S/A e Filhos;Colatina;ES;V011
+C0697;Siqueira S/A;Belo Horizonte;MG;V021
+C0698;Moura e Filhos;Rio de Janeiro;RJ;V006
+C0699;Siqueira S/A Ltda.;Teixeira de Freitas;BA;V008
+C0700;Duarte Ltda.;Nova Iguacu;RJ;V013
+C0701;Câmara Viana e Filhos - ME;Itamaraju;BA;V021
+C0702;Aragão S.A. Ltda.;Feira de Santana;BA;V015
+C0703;Araújo da Mota e Filhos S/A;Canoas;RS;V020
+C0704;Pastor - ME;Itamaraju;BA;V021
+C0705;Vasconcelos e Filhos e Filhos;Duque de Caxias;RJ;V011
+C0706;Fonseca S.A. Ltda.;Contagem;MG;V012
+C0707;Ferreira - EI;Vila Velha;ES;V007
+C0708;Martins Sousa S/A S/A;Guarulhos;SP;V022
+C0709;Pereira S/A;Betim;MG;V013
+C0710;Borges S.A.;Caxias do Sul;RS;V003
+C0711;Brito - ME;Osasco;SP;V008
+C0712;Azevedo Ltda.;Salvador;BA;V014
+C0713;Aragão da Rocha Ltda. - EI;Vitória;ES;V019
+C0714;Oliveira Viana Ltda. S.A.;Linhares;ES;V012
+C0715;Pires S/A - EI;Santa Maria;RS;V017
+C0716;Aparecida Gomes - ME - ME;Nova Iguacu;RJ;V006
+C0717;Fogaça - ME;Contagem;MG;V023
+C0718;Sousa Nascimento - EI - EI;Ilhéus;BA;V009
+C0719;Alves das Neves - ME S.A.;Teixeira de Freitas;BA;V018
+C0720;Dias S/A;Betim;MG;V005
+C0721;Borges Ltda. S.A.;Belo Horizonte;MG;V023
+C0722;Pastor - EI e Filhos;Porto Alegre;RS;V010
+C0723;Cavalcante Ltda. - ME;Salvador;BA;V004
+C0724;Ferreira e Filhos;Volta Redonda;RJ;V004
+C0725;da Cunha Martins Ltda. - ME;Salvador;BA;V016
+C0726;Rios Monteiro - EI Ltda.;São Paulo;SP;V013
+C0727;Rodrigues S/A Ltda.;Contagem;MG;V014
+C0728;da Mota - ME - EI;Viana;ES;V009
+C0729;Guerra - ME;Porto Alegre;RS;V017
+C0730;da Mota Garcia S/A - EI;Cariacica;ES;V012
+C0731;Azevedo e Filhos;Caxias do Sul;RS;V019
+C0732;das Neves S.A.;Contagem;MG;V023
+C0733;Fogaça e Filhos;Vila Velha;ES;V010
+C0734;Abreu da Paz S.A. - ME;Duque de Caxias;RJ;V002
+C0735;Sá Ltda.;Uberaba;MG;V019
+C0736;Camargo e Filhos;Porto Alegre;RS;V011
+C0737;Cassiano S/A;Pelotas;RS;V015
+C0738;Freitas Costela e Filhos - EI;São Goncalo;RJ;V012
+C0739;Pinto S.A. - ME;Niterói;RJ;V007
+C0740;Mendes S/A;Niterói;RJ;V013
+C0741;Farias Teixeira - ME - ME;Campinas;SP;V001
+C0742;Gonçalves Barbosa e Filhos S.A.;Belo Horizonte;MG;V004
+C0743;Almeida S.A.;Cariacica;ES;V002
+C0744;Marques - EI;Divinópolis;MG;V004
+C0745;Duarte e Filhos;Porto Alegre;RS;V013
+C0746;Lima - ME Ltda.;Duque de Caxias;RJ;V007
+C0747;Vieira S.A. - EI;Uberlândia;MG;V016
+C0748;da Paz Rios S.A. Ltda.;Vitória da Conquista;BA;V001
+C0749;Leão Martins - EI - ME;Teixeira de Freitas;BA;V010
+C0750;Carvalho S.A. e Filhos;Santo André;SP;V018
+C0751;Silveira Pacheco - ME e Filhos;Feira de Santana;BA;V003
+C0752;Andrade - ME - ME;Volta Redonda;RJ;V004
+C0753;Sá S.A.;Campinas;SP;V019
+C0754;Cirino Freitas e Filhos S.A.;Serra;ES;V018
+C0755;Garcia - ME - ME;Volta Redonda;RJ;V002
+C0756;Montenegro Barbosa - EI - ME;Niterói;RJ;V011
+C0757;Andrade - EI;Porto Alegre;RS;V003
+C0758;da Costa Albuquerque S/A - ME;Osasco;SP;V005
+C0759;Pacheco - EI;Linhares;ES;V015
+C0760;Azevedo - EI;Guarulhos;SP;V018
+C0761;da Mota - ME Ltda.;Pelotas;RS;V001
+C0762;Fonseca Albuquerque - EI - EI;Vitória da Conquista;BA;V014
+C0763;Almeida Ltda.;Divinópolis;MG;V007
+C0764;Barros S.A. Ltda.;Rio de Janeiro;RJ;V020
+C0765;Mendonça S/A;Canoas;RS;V007
+C0766;Duarte Duarte S.A. - ME;Niterói;RJ;V014
+C0767;Rios S/A Ltda.;Pelotas;RS;V012
+C0768;Vasconcelos Freitas S.A. - ME;Pelotas;RS;V001
+C0769;da Cruz S/A;Uberlândia;MG;V009
+C0770;Lopes S/A;Niterói;RJ;V003
+C0771;Melo Mendes Ltda. e Filhos;Contagem;MG;V017
+C0772;Alves - ME Ltda.;Feira de Santana;BA;V009
+C0773;Vargas - EI;Viana;ES;V006
+C0774;da Cunha - EI;Canoas;RS;V003
+C0775;Pereira S.A. - EI;Rio de Janeiro;RJ;V009
+C0776;Pinto e Filhos;Cariacica;ES;V019
+C0777;Dias Ltda.;Itamaraju;BA;V006
+C0778;Silva Ltda. S.A.;Santos;SP;V013
+C0779;Pinto S/A S/A;Salvador;BA;V023
+C0780;Montenegro S/A e Filhos;Vitória da Conquista;BA;V019
+C0781;Nascimento - EI S/A;Viana;ES;V013
+C0782;Cardoso - EI - EI;Uberlândia;MG;V013
+C0783;Novaes - ME;Niterói;RJ;V004
+C0784;Cirino S.A.;Itamaraju;BA;V009
+C0785;Martins - EI;Uberaba;MG;V010
+C0786;Rios S/A;Sorocaba;SP;V020
+C0787;Caldeira Ltda. S/A;Viana;ES;V008
+C0788;Fogaça Ltda.;Serra;ES;V009
+C0789;Teixeira e Filhos;Nova Iguacu;RJ;V018
+C0790;Ribeiro - EI;Sorocaba;SP;V007
+C0791;Sampaio - ME - ME;São Paulo;SP;V016
+C0792;Almeida S/A;Salvador;BA;V008
+C0793;Rocha Vieira e Filhos - ME;Vitória;ES;V015
+C0794;Novaes Martins - ME S/A;Feira de Santana;BA;V009
+C0795;Costa Ltda.;Pelotas;RS;V002
+C0796;Leão S/A;Serra;ES;V006
+C0797;Fogaça da Rosa S.A. S/A;Santa Maria;RS;V002
+C0798;Abreu - EI e Filhos;Santa Maria;RS;V022
+C0799;Sá Brito S/A S/A;Betim;MG;V002
+C0800;Rios Nogueira Ltda. S.A.;Porto Alegre;RS;V016
+C0801;Aparecida S/A e Filhos;Colatina;ES;V017
+C0802;Lopes - ME;Teixeira de Freitas;BA;V020
+C0803;Porto Ltda. S.A.;Salvador;BA;V020
+C0804;Sales - EI;Volta Redonda;RJ;V005
+C0805;Marques - ME Ltda.;Canoas;RS;V007
+C0806;Brito e Filhos;Volta Redonda;RJ;V018
+C0807;Caldeira Ltda.;Uberaba;MG;V016
+C0808;Brito - EI;Betim;MG;V014
+C0809;Martins S/A;Santa Maria;RS;V002
+C0810;da Costa S.A.;Uberlândia;MG;V007
+C0811;Alves S/A;Sorocaba;SP;V019
+C0812;Santos e Filhos;Santos;SP;V004
+C0813;Carvalho Mendes Ltda. S.A.;Colatina;ES;V009
+C0814;Moreira Duarte Ltda. S.A.;Nova Iguacu;RJ;V005
+C0815;Farias e Filhos;Uberaba;MG;V015
+C0816;Guerra - ME - ME;Ilhéus;BA;V002
+C0817;Ramos e Filhos Ltda.;Nova Iguacu;RJ;V017
+C0818;Cavalcanti Ltda.;Teixeira de Freitas;BA;V008
+C0819;Nascimento e Filhos - EI;Campinas;SP;V018
+C0820;Campos e Filhos S.A.;Colatina;ES;V019
+C0821;Peixoto e Filhos S.A.;Duque de Caxias;RJ;V010
+C0822;Macedo da Paz - ME - ME;Guarapari;ES;V011
+C0823;Duarte S.A. - ME;Viana;ES;V013
+C0824;Montenegro e Filhos - ME;Caxias do Sul;RS;V013
+C0825;Lima - ME;Porto Alegre;RS;V017
+C0826;Cirino - ME e Filhos;Viana;ES;V016
+C0827;Martins S.A. e Filhos;Pelotas;RS;V016
+C0828;Ramos Carvalho S.A. - EI;Niterói;RJ;V014
+C0829;Vasconcelos - ME;Rio de Janeiro;RJ;V016
+C0830;Barros e Filhos - EI;Belo Horizonte;MG;V018
+C0831;da Rocha Ltda. - EI;Osasco;SP;V019
+C0832;Nascimento - EI e Filhos;Betim;MG;V002
+C0833;Montenegro S.A.;Pelotas;RS;V021
+C0834;Cavalcante - EI;Nova Lima;MG;V011
+C0835;da Costa - ME;Linhares;ES;V007
+C0836;Rios Carvalho e Filhos - ME;São Paulo;SP;V002
+C0837;Cirino S/A;Porto Alegre;RS;V021
+C0838;Cassiano - EI Ltda.;Teixeira de Freitas;BA;V001
+C0839;da Luz e Filhos;Uberaba;MG;V007
+C0840;Fonseca Ramos e Filhos Ltda.;Duque de Caxias;RJ;V022
+C0841;Silveira - EI;Feira de Santana;BA;V019
+C0842;Oliveira Vargas - EI e Filhos;Betim;MG;V012
+C0843;da Mota e Filhos;Belo Horizonte;MG;V011
+C0844;Rios S/A;Serra;ES;V007
+C0845;Vasconcelos - ME;Duque de Caxias;RJ;V005
+C0846;Sá Ltda.;Sorocaba;SP;V018
+C0847;Cirino Marques S/A - ME;Santa Maria;RS;V012
+C0848;Fonseca - ME - ME;Nova Lima;MG;V007
+C0849;Sampaio - EI S.A.;Porto Alegre;RS;V003
+C0850;Vieira S.A.;Feira de Santana;BA;V008
+C0851;Garcia - EI;Rio de Janeiro;RJ;V001
+C0852;Andrade Ltda.;Volta Redonda;RJ;V009
+C0853;Ferreira Monteiro Ltda. e Filhos;Belo Horizonte;MG;V016
+C0854;Cirino Fonseca S.A. Ltda.;Feira de Santana;BA;V021
+C0855;Cunha S/A - EI;Sorocaba;SP;V010
+C0856;Costela - ME S/A;São Paulo;SP;V002
+C0857;Moreira Ltda. e Filhos;Serra;ES;V005
+C0858;Aparecida - EI;Duque de Caxias;RJ;V009
+C0859;Cassiano Araújo S/A - EI;Vitória da Conquista;BA;V010
+C0860;Peixoto Machado - EI - ME;Viana;ES;V003
+C0861;Guerra - ME - EI;Salvador;BA;V009
+C0862;Dias - EI;Pelotas;RS;V008
+C0863;Garcia S.A.;Nova Lima;MG;V010
+C0864;Castro S/A S/A;Osasco;SP;V020
+C0865;das Neves Borges S/A - ME;Vitória da Conquista;BA;V010
+C0866;Martins da Rosa e Filhos S/A;Sorocaba;SP;V020
+C0867;Moura S.A.;Volta Redonda;RJ;V005
+C0868;Barbosa - EI S.A.;Santa Maria;RS;V013
+C0869;Casa Grande e Filhos;Cariacica;ES;V009
+C0870;Aragão - ME;Santos;SP;V011
+C0871;Pereira S.A. - ME;Canoas;RS;V011
+C0872;Porto da Mata - ME - EI;Rio de Janeiro;RJ;V021
+C0873;Aparecida e Filhos;Itamaraju;BA;V019
+C0874;Brito S/A;Santa Maria;RS;V014
+C0875;Alves S.A. - ME;Pelotas;RS;V009
+C0876;da Cunha S.A.;Santo André;SP;V017
+C0877;Oliveira S.A.;Guarapari;ES;V002
+C0878;Casa Grande - EI;Guarapari;ES;V009
+C0879;Farias S/A;Volta Redonda;RJ;V014
+C0880;Montenegro S.A.;Volta Redonda;RJ;V001
+C0881;Fernandes e Filhos;Pelotas;RS;V015
+C0882;Almeida - EI - EI;Vila Velha;ES;V019
+C0883;da Conceição - EI;São Paulo;SP;V011
+C0884;Dias Dias S/A S.A.;Campinas;SP;V013
+C0885;Vargas Ltda. S/A;Campinas;SP;V023
+C0886;Siqueira Ltda. - ME;Vitória da Conquista;BA;V003
+C0887;Machado Viana - EI e Filhos;Rio de Janeiro;RJ;V016
+C0888;Freitas S.A.;Canoas;RS;V003
+C0889;Casa Grande - ME;Caxias do Sul;RS;V023
+C0890;Almeida - EI;Campinas;SP;V011
+C0891;Sousa Barros Ltda. S/A;Colatina;ES;V013
+C0892;Nunes Ltda. - ME;Osasco;SP;V018
+C0893;Andrade Ltda. - ME;São Goncalo;RJ;V020
+C0894;Machado - EI;Vitória;ES;V010
+C0895;Araújo Ltda. S.A.;Santos;SP;V021
+C0896;Machado Ltda.;Guarulhos;SP;V023
+C0897;Camargo Ltda.;São Paulo;SP;V020
+C0898;Andrade Ltda.;Rio de Janeiro;RJ;V017
+C0899;Pacheco S.A.;Viana;ES;V009
+C0900;da Rocha Ltda.;Vitória da Conquista;BA;V003
+C0901;da Mota Ltda.;Colatina;ES;V019
+C0902;da Mata e Filhos;Belo Horizonte;MG;V006
+C0903;da Luz Garcia S.A. - EI;Guarulhos;SP;V017
+C0904;Guerra S/A;Porto Alegre;RS;V020
+C0905;Cavalcanti S/A - EI;São Paulo;SP;V021
+C0906;Almeida da Paz S.A. - ME;Santa Maria;RS;V019
+C0907;da Costa Costela - EI Ltda.;Nova Iguacu;RJ;V003
+C0908;Mendes Fernandes - ME - ME;Salvador;BA;V012
+C0909;Cavalcante e Filhos;São Goncalo;RJ;V019
+C0910;Freitas - ME;Nova Lima;MG;V022
+C0911;Vargas - EI S.A.;Nova Lima;MG;V017
+C0912;Fonseca Nascimento Ltda. Ltda.;São Paulo;SP;V009
+C0913;Campos da Mata S.A. S/A;Guarulhos;SP;V020
+C0914;Nascimento Barbosa S.A. S.A.;São Paulo;SP;V023
+C0915;Rodrigues Cavalcante S/A Ltda.;São Goncalo;RJ;V007
+C0916;Vargas - EI S/A;Campinas;SP;V016
+C0917;Cavalcanti Mendonça Ltda. S/A;Betim;MG;V022
+C0918;Oliveira - ME;Santa Maria;RS;V007
+C0919;Nascimento Ltda.;Ilhéus;BA;V004
+C0920;Nunes Mendonça e Filhos - EI;Viana;ES;V006
+C0921;Moura e Filhos;Nova Iguacu;RJ;V010
+C0922;Costela S.A.;Colatina;ES;V004
+C0923;Casa Grande Ltda. - EI;Guarulhos;SP;V014
+C0924;Pacheco e Filhos;Linhares;ES;V008
+C0925;Abreu Ltda. - ME;Campinas;SP;V003
+C0926;Lima - EI;Osasco;SP;V007
+C0927;Rezende S.A. S/A;Caxias do Sul;RS;V022
+C0928;Vargas Souza - EI Ltda.;Porto Alegre;RS;V006
+C0929;Leão da Rocha e Filhos - ME;Feira de Santana;BA;V007
+C0930;Aparecida S/A e Filhos;Porto Alegre;RS;V014
+C0931;Jesus - EI;Salvador;BA;V021
+C0932;Costa Rodrigues e Filhos S.A.;Cariacica;ES;V015
+C0933;Silveira - EI;Nova Iguacu;RJ;V017
+C0934;Correia S/A - ME;Cariacica;ES;V018
+C0935;Farias S/A - ME;Santos;SP;V019
+C0936;da Rocha - EI - EI;Teixeira de Freitas;BA;V011
+C0937;Ribeiro - ME - ME;Guarulhos;SP;V022
+C0938;Duarte S/A;Porto Alegre;RS;V019
+C0939;Silveira - EI - ME;Rio de Janeiro;RJ;V011
+C0940;da Cruz Ltda. - EI;Feira de Santana;BA;V016
+C0941;Porto S/A S/A;Belo Horizonte;MG;V003
+C0942;Vargas Ltda.;Uberlândia;MG;V018
+C0943;Cavalcanti S/A S/A;Ilhéus;BA;V004
+C0944;Montenegro e Filhos;Sorocaba;SP;V013
+C0945;Novaes - EI - ME;Vila Velha;ES;V016
+C0946;Rodrigues S.A.;Caxias do Sul;RS;V014
+C0947;Brito - EI S.A.;Campinas;SP;V007
+C0948;Nunes Novais Ltda. S/A;Duque de Caxias;RJ;V009
+C0949;Sampaio Pastor S/A e Filhos;Volta Redonda;RJ;V012
+C0950;Nogueira - EI;Feira de Santana;BA;V003
+C0951;Mendes Ltda. e Filhos;Feira de Santana;BA;V003
+C0952;Abreu S/A;Pelotas;RS;V016
+C0953;Silva S.A. - EI;Betim;MG;V010
+C0954;Abreu - EI;Pelotas;RS;V001
+C0955;Farias - ME - ME;Betim;MG;V022
+C0956;Porto S.A.;Vitória da Conquista;BA;V020
+C0957;Aparecida Costa e Filhos e Filhos;Osasco;SP;V020
+C0958;Leão e Filhos;Viana;ES;V022
+C0959;Abreu S.A. S/A;Santa Maria;RS;V017
+C0960;Novaes Ltda. - ME;Nova Iguacu;RJ;V010
+C0961;Almeida - EI;Colatina;ES;V010
+C0962;das Neves Sales - EI e Filhos;Pelotas;RS;V020
+C0963;Guerra Ltda.;Santa Maria;RS;V023
+C0964;Nascimento S/A S/A;Uberaba;MG;V019
+C0965;Ramos e Filhos;Canoas;RS;V002
+C0966;Borges S.A. - EI;Ilhéus;BA;V009
+C0967;Teixeira - ME S.A.;Nova Lima;MG;V022
+C0968;Ferreira Ltda.;Ilhéus;BA;V019
+C0969;Teixeira Pires - EI S.A.;Canoas;RS;V010
+C0970;Souza S/A;Porto Alegre;RS;V001
+C0971;Pimenta - ME;Campinas;SP;V020
+C0972;Rocha Ltda.;Guarapari;ES;V022
+C0973;Peixoto - EI;Nova Lima;MG;V007
+C0974;Fernandes S.A.;Santo André;SP;V017
+C0975;Leão S.A.;Guarulhos;SP;V005
+C0976;Abreu e Filhos;São Goncalo;RJ;V016
+C0977;Nascimento S/A - ME;Niterói;RJ;V003
+C0978;da Cruz e Filhos;Contagem;MG;V014
+C0979;Sousa Ltda.;Feira de Santana;BA;V017
+C0980;Siqueira - EI;Cariacica;ES;V004
+C0981;Pinto e Filhos;Santos;SP;V023
+C0982;Oliveira - ME Ltda.;Rio de Janeiro;RJ;V019
+C0983;Fernandes Porto Ltda. - EI;Osasco;SP;V011
+C0984;Teixeira - EI;Santa Maria;RS;V019
+C0985;Rezende Silveira e Filhos e Filhos;Caxias do Sul;RS;V011
+C0986;Rezende Porto - EI e Filhos;Osasco;SP;V012
+C0987;Porto e Filhos e Filhos;Itamaraju;BA;V005
+C0988;Mendes Ltda.;Niterói;RJ;V002
+C0989;Sá - EI;Santa Maria;RS;V009
+C0990;Almeida S/A - ME;Guarapari;ES;V023
+C0991;Ramos - EI;Rio de Janeiro;RJ;V016
+C0992;da Rocha Vasconcelos - EI Ltda.;Osasco;SP;V015
+C0993;Cassiano Pires - EI S.A.;Salvador;BA;V018
+C0994;Barbosa S/A Ltda.;Campinas;SP;V009
+C0995;Fernandes - ME;Santo André;SP;V019
+C0996;Pereira Freitas - ME - EI;Niterói;RJ;V013
+C0997;da Cruz Santos - EI S/A;Porto Alegre;RS;V003
+C0998;Nogueira - EI;Pelotas;RS;V009
+C0999;Sousa e Filhos - ME;Colatina;ES;V006
+C1000;Farias Montenegro - EI Ltda.;Ilhéus;BA;V004
+C1001;Silveira Vargas - ME - EI;Santo André;SP;V022
+C1002;Lima e Filhos;Santos;SP;V003
+C1003;Rezende Montenegro e Filhos e Filhos;Nova Iguacu;RJ;V005
+C1004;Oliveira Cassiano S.A. - EI;Santa Maria;RS;V007
+C1005;Lima S/A;Salvador;BA;V009
+C1006;Cunha - EI;Cariacica;ES;V023
+C1007;Sousa - ME;Pelotas;RS;V001
+C1008;da Mata e Filhos;Canoas;RS;V005
+C1009;Aragão S.A.;Nova Iguacu;RJ;V022
+C1010;Alves Pinto e Filhos - EI;Vitória;ES;V010
+C1011;Castro - EI - EI;Santos;SP;V002
+C1012;Silveira - ME;Canoas;RS;V014
+C1013;Barbosa Pimenta - EI - ME;Feira de Santana;BA;V014
+C1014;Cavalcante da Rosa e Filhos e Filhos;Nova Lima;MG;V021
+C1015;da Rosa S/A;Nova Iguacu;RJ;V018
+C1016;Silva S.A.;Contagem;MG;V011
+C1017;Nogueira Câmara - EI - ME;Belo Horizonte;MG;V013
+C1018;Jesus S.A.;Canoas;RS;V022
