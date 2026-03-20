@@ -2,13 +2,15 @@
 ####  Projeto de Análise de Dados com foco em Inteligência de Mercado
 ##  Preview do Dashboard
 
-<img width="1324" height="741" alt="image" src="https://github.com/user-attachments/assets/56fbb293-5b22-488e-b9ad-d1695b879a06" />
+![Dashboard](dashboard.png)
 
 
 
 ##  Visão Geral
 
-Empresas do setor de cosméticos enfrentam desafios para entender o desempenho de vendas em diferentes regiões, canais e categorias.
+Empresas do setor de cosméticos enfrentam desafios para compreender o desempenho de vendas em diferentes regiões, canais e categorias, especialmente na ausência de uma visão integrada dos dados.
+
+Nesse contexto, este projeto foi desenvolvido para transformar dados operacionais em insights estratégicos que apoiem a tomada de decisão.
 
 A ausência de uma visão consolidada dificulta a identificação de oportunidades de crescimento e gargalos operacionais.
 
@@ -22,10 +24,10 @@ A análise contempla múltiplas dimensões do negócio, incluindo canais de vend
 
 Desenvolver um dashboard analítico no Power BI que permita:
 
-* Monitorar o desempenho de vendas por região e canal
-* Identificar oportunidades de crescimento e gargalos operacionais
-* Avaliar a performance da equipe comercial
-* Analisar o comportamento de vendas por categoria de produto
+- Monitorar o desempenho de vendas por região e canal  
+- Identificar oportunidades de crescimento e gargalos operacionais  
+- Avaliar a performance da equipe comercial  
+- Analisar o comportamento de vendas por categoria de produto  
 
 ---
 
