@@ -2,7 +2,10 @@
 ####  Projeto de Análise de Dados com foco em Inteligência de Mercado
 ##  Preview do Dashboard
 
-![Dashboard](dashboard.png)
+
+<p align="center">
+  <img src="dashboard.png" width="900">
+</p>
 
 
 
